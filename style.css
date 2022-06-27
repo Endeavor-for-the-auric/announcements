@@ -65,7 +65,7 @@ body {
      color: black;
 }
    
-a.active, button.active{
+a.active, button.active.dropdown-button{
      background-color: #04AA6D;
      color: white;
 }
